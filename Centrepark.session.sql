@@ -1,0 +1,1 @@
+select * from parking_slip where created_at BETWEEN '2024-04-01 00:00:00' AND '2024-04-01 23:59:59'
