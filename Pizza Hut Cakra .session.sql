@@ -1,1 +1,0 @@
-select * FROM `order` where `created_date` like '2024-04-01%'
